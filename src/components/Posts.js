@@ -24,7 +24,7 @@ const Posts = ({id}) => {
           },
         ])
       );
-  }, []);
+  }, [id]);
 
   return (
     <>
